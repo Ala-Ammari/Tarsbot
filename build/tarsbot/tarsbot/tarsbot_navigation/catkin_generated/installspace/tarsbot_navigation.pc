@@ -1,0 +1,8 @@
+prefix=/home/ammari/catkin_ws/install
+
+Name: tarsbot_navigation
+Description: Description of tarsbot_navigation
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

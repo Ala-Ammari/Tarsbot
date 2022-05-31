@@ -1,0 +1,8 @@
+prefix=/home/ammari/catkin_ws/devel
+
+Name: my_awesome_code
+Description: Description of my_awesome_code
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

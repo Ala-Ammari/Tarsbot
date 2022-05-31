@@ -1,0 +1,2 @@
+remo_description:rplidar_ros:tarsbot/tarsbot/tarsbot_base:tarsbot/tarsbot/tarsbot_bringup:tarsbot/tarsbot/tarsbot_control:tarsbot/tarsbot/tarsbot_description:tarsbot/tarsbot/tarsbot_gazebo:tarsbot/tarsbot/tarsbot_mbf:tarsbot/tarsbot/tarsbot_msgs:tarsbot/tarsbot/tarsbot_navigation:tarsbot/tarsbot/tarsbot_robot:tarsbot/tarsbot/tarsbot_slam
+-DCATKIN_DEVEL_PREFIX=/home/ammari/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ammari/catkin_ws/install -G Unix Makefiles
